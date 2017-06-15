@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>org.iosda.CodeHubiOS</string>
 				<key>bundle-version</key>
-				<string>2.10.2.3</string>
+				<string>2.10.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>CodeHubiOS</string>
+				<string>CodeHub</string>
 			</dict>
 		</dict>
 	</array>
