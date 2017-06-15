@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.iosda.cohort2.GladiOS.prova5</string>
+				<string>org.iosda.cohort2.test1</string>
 				<key>bundle-version</key>
-				<string>6.8.0</string>
+				<string>7.6.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
