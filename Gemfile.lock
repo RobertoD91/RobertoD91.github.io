@@ -45,13 +45,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.4.3)
+  jekyll (~> 3.4.3)
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.4.1p111
+   ruby 2.3.8p459
 
 BUNDLED WITH
-   1.14.6
+   1.17.3
