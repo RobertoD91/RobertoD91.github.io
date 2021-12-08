@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /> 
+  <title>iOS OTA App Install</title>
+  <style type="text/css">
+    body {
+      background: url(bkg.png) repeat #c5ccd4;
+      font-family: Helvetica, arial, sans-serif;
+    }
+    .congrats {
+      font-size: 16pt;
+      padding: 6px;
+      text-align: center;
+    }
+    .credits {
+      font-size: 10pt;
+      padding: 6px;
+      text-align: center;
+    }
+    .step {
+      background: white;
+      border: 1px #ccc solid;
+      border-radius: 14px;
+      padding: 4px 10px;
+      margin: 10px 0;
+    }
+    .instructions {
+      font-size: 10pt;
+    }
+    .arrow {
+      font-size: 15pt;
+    }
+    table {
+      width: 100%;
+    }
+  </style>
+  
+	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+	<script>
+		var OneSignal = window.OneSignal || [];
+		OneSignal.push(function() {
+			OneSignal.init({
+				appId: "6818eca8-2631-44d8-91df-e323ae0d5b60",
+			});
+		});
+	</script>
+  
+</head>
+<body>
+
+<div class="congrats">Test Page</div>
+<div class="congrats">Notifiche</div>
+<div class="credits">Roberto D'Isanto</div>
+
+
+<div class="step">
+  <table><tr>
+    <td class="instructions">Iscriviti alle notifiche<br />PRESS ME!</td>
+    <td width="24" class="arrow">&rarr;</td>
+    <td width="57" class="imagelink">
+      <a href="https://robertod91.github.io/wstaff">
+        <img src="https://robertod91.github.io/ios/academy5-57x57.png" height="57" width="57" />
+      </a>
+    </td>
+  </tr></table>
+</div>
+
+
+
+<div class="credits">This webpage template is taken from:<br />https://aaronparecki.com/2011/01/21/4/how-to-distribute-your-ios-apps-over-the-air.</div>
+
+</body>
+</html>
