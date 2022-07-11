@@ -6,7 +6,14 @@
   "builds": [
     {
       "chipFamily": "ESP32",
-      "parts": [{ "path": "firmware/WLED_0.13.2-a0_ESP32.bin", "offset": 0 }]
+      "parts": [
+        { "path": "firmware/esp32_bootloader_v4.bin", "offset": 0 },
+        { "path": "firmware/WLED_0.13.2-a0_ESP32.bin", "offset": 65536 }
+      ]
+    },
+    {
+      "chipFamily": "ESP8266",
+      "parts": [{ "path": "firmware/WLED_0.13.2-a0_ESP8266.bin", "offset": 0 }]
     }
   ]
 }
