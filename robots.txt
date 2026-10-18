@@ -1,2 +1,11 @@
+# robots.txt per robertodisanto.it
+# Tutti i crawler sono benvenuti, compresi quelli delle IA.
+# Vale per tutto il dominio, anche per /curriculum-vitae/.
+
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://robertodisanto.it/sitemap.xml
+
+# Ai robot si dice tutto. O quasi.
+# synt{1/3:h87g8l}

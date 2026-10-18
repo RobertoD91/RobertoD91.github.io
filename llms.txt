@@ -1,0 +1,27 @@
+# Roberto D'Isanto
+
+> Computer engineer based in Naples, Italy. Self-employed, working across
+> cybersecurity, software development and technical training. PhD candidate
+> in Information Technology and Electrical Engineering at the University of
+> Naples Federico II.
+
+This is the personal landing page. The full profile, with experience,
+teaching, projects and downloadable CVs, lives under /curriculum-vitae/.
+
+## Profile
+
+- [Full profile](https://robertodisanto.it/curriculum-vitae/): bilingual portfolio page (IT/EN)
+- [Detailed llms.txt](https://robertodisanto.it/curriculum-vitae/llms.txt): key facts for language models
+
+## CV (PDF)
+
+- [CV, Italian, 2 pages](https://robertodisanto.it/curriculum-vitae/cv-it.pdf)
+- [CV, English, 2 pages](https://robertodisanto.it/curriculum-vitae/cv-en.pdf)
+- [CV, Italian, 1 page](https://robertodisanto.it/curriculum-vitae/cv-it-1p.pdf)
+- [CV, English, 1 page](https://robertodisanto.it/curriculum-vitae/cv-en-1p.pdf)
+
+## Links
+
+- [GitHub](https://github.com/robertod91): open-source activity
+- [LinkedIn](https://www.linkedin.com/in/robertodisanto/): professional profile
+- Contact: info@robertodisanto.it

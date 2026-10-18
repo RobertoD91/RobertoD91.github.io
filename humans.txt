@@ -1,0 +1,12 @@
+/* TEAM */
+Ingegnere: Roberto D'Isanto
+Sito: https://robertodisanto.it
+Curriculum: https://robertodisanto.it/curriculum-vitae/
+Contatto: info@robertodisanto.it
+Da: Pozzuoli (NA), Italia
+
+/* SITO */
+Ultimo aggiornamento: 2026/10/18
+Standard: HTML5, CSS3
+Componenti: template Identity di HTML5 UP, Font Awesome
+Pubblicato con: GitHub Pages
