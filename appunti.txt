@@ -1,0 +1,9 @@
+Appunti per il sito
+- [x] pulsante whoami
+- [x] robots aperto a tutti
+- [ ] ricordarsi di togliere questo file prima del push
+
+flag{3/3:c6xz4y}
+
+I pezzi vanno uniti in ordine, senza spazi.
+Per il messaggio nel README: aes-256-cbc, pbkdf2.
