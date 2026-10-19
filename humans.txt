@@ -6,7 +6,7 @@ Contatto: info@robertodisanto.it
 Da: Pozzuoli (NA), Italia
 
 /* SITO */
-Ultimo aggiornamento: 2026/10/18
+Ultimo aggiornamento: 2026/10/19
 Standard: HTML5, CSS3
 Componenti: template Identity di HTML5 UP, Font Awesome
 Pubblicato con: GitHub Pages

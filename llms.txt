@@ -1,9 +1,10 @@
 # Roberto D'Isanto
 
-> Computer engineer based in Naples, Italy. Self-employed, working across
-> cybersecurity, software development and technical training. PhD candidate
-> in Information Technology and Electrical Engineering at the University of
-> Naples Federico II.
+> Computer engineer, self-employed. I work across cybersecurity, software
+> development and IoT/cloud systems; teaching and technical training have long
+> run alongside my consulting work. PhD candidate in Information Technology and
+> Electrical Engineering at the University of Naples Federico II. Based in
+> Pozzuoli (NA), Italy.
 
 This is the personal landing page. The full profile, with experience,
 teaching, projects and downloadable CVs, lives under /curriculum-vitae/.

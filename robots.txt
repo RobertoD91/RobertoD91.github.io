@@ -6,6 +6,7 @@ User-agent: *
 Allow: /
 
 Sitemap: https://robertodisanto.it/sitemap.xml
+Sitemap: https://robertodisanto.it/curriculum-vitae/sitemap.xml
 
 # Ai robot si dice tutto. O quasi.
 # synt{1/3:h87g8l}
